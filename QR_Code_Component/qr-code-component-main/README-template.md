@@ -20,8 +20,8 @@ The purpose of this project is to create a simple web page that generates a QR c
 
 ### Screenshot
 
-(./screenshoots/Mobile_screenshot.png)
-(./screenshoots/Desktop_screenshot.png)
+![](./screenshoots/Mobile_screenshot.png)
+![](./screenshoots/Desktop_screenshot.png)
 
 ### Links
 
