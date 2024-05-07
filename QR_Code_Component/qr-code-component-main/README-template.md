@@ -20,13 +20,15 @@ The purpose of this project is to create a simple web page that generates a QR c
 
 ### Screenshot
 
-![./screenshoots/Mobile_screenshot.png]
-![./screenshoots/Desktop_screenshot.png]
+(./screenshoots/Mobile_screenshot.png)
+(./screenshoots/Desktop_screenshot.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
 
 ### Built with
 
@@ -42,7 +44,7 @@ The purpose of this project is to create a simple web page that generates a QR c
 I have developed a simple HTML page for displaying a QR code. Here's what I have learned or implemented through this development:
 
 HTML Structure: 
-I have structured your HTML using <html>, <head>, and <body> tags, which is the basic skeleton of any HTML document.
+I have structured your HTML using "(<html>)", <head>, and <body> tags, which is the basic skeleton of any HTML document.
 
 Meta Tags:
 I have utilized "meta" tags for specifying character set (<meta charset="utf-8">) and viewport settings (<meta name="viewport" content="width=device-width, initial-scale=1">). This helps in ensuring proper rendering and responsiveness across different devices.
@@ -55,7 +57,7 @@ Styled the "p", "img", and "h1" elements with appropriate font sizes, colors, ma
 Added a class for attribution styling.
 
 QR Code Image:
-I have embedded a QR code image "(<img>) "within your HTML, with a placeholder source (src). This QR code likely links to a website or resource related to frontend development.
+I have embedded a QR code image "(img)" within your HTML, with a placeholder source (src). This QR code likely links to a website or resource related to frontend development.
 
 Content:
 I have included a heading "(h1)" and a paragraph "(p)" providing information about the QR code's purpose, encouraging users to scan it to visit Frontend Mentor for improving their frontend coding skills.
@@ -72,9 +74,6 @@ Overall, through this development, I have practiced HTML structure, meta tags us
 
 - Website - [Ravi Kiran](https://www.your-site.com)
 - Frontend Mentor - [@ravikiranvanguri07](https://www.frontendmentor.io/profile/ravikiranvanguri07)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
